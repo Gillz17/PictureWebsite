@@ -1,0 +1,28 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+.bg{
+  position: relative;
+  background-image: url("images/Williamsburg.jpg");
+}
+.topleft{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px
+}
+.topright{
+  position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+#HeaderImg{
+  max-width: 100%;
+  opacity: 0.75;
+}
+
+footer{
+  background-color: #F8AE00
+}
